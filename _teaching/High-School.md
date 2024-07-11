@@ -1,6 +1,6 @@
 ---
 title: "High school educational experience"
-# collection: High-school student
+collection: High-school student
 type: "Ordinary High School"
 permalink: /teaching/High-School
 venue: "Hangzhou No.2 middle school"
