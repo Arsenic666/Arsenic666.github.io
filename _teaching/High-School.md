@@ -4,7 +4,7 @@ collection: High-school student
 type: "Ordinary High School"
 permalink: /teaching/High-School
 venue: "Hangzhou No.2 middle school"
-date: 2019-9 to 2022-6
+date: 2019-09-01
 location: "Hangzhou, China"
 ---
 
