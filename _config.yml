@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "Shen WANG / Personal Academic Website"
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Shen WANG"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://Arsenic666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
