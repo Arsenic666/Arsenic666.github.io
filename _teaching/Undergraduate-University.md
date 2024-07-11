@@ -1,6 +1,6 @@
 ---
 title: "Undergraduate education experience"
-# collection: Bachelor's Degree
+collection: Bachelor's Degree
 type: "National Key Universities"
 permalink: /teaching/Undergraduate-University
 venue: "Dalian University of Technology, Leicester International Institute"
