@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate education experience"
+title: "Undergraduate educational experience"
 collection: Bachelor's Degree
 type: "National Key Universities"
 permalink: /teaching/Undergraduate-University
